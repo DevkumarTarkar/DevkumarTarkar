@@ -1,65 +1,78 @@
-<!-- =============================== -->
+<!-- ========================================================= -->
+<!--             DEV KUMAR TARKAR - GITHUB PROFILE              -->
+<!--                    PREMIUM README v3                       -->
+<!--                      PART 1 OF 6                           -->
+<!-- ========================================================= -->
 
-<!--        DEV KUMAR TARKAR         -->
+<div align="center">
 
-<!--        GITHUB PROFILE README    -->
+# Hi 👋, I'm <span style="color:#00BFFF;">Dev Kumar Tarkar</span>
 
-<!--             PART 1              -->
+### 🚀 AI Engineer • Full Stack Developer • B.Tech CSE (AI & ML)
 
-<!-- =============================== -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Full+Stack+Developer;FastAPI+%7C+Next.js+%7C+Python;Building+Real+World+AI+Projects;Always+Learning+New+Technologies"/>
 
-<h1 align="center">
-  Hi 👋, I'm Dev Kumar Tarkar
-</h1>
+<br>
 
-<h3 align="center">
-🚀 AI & Machine Learning Enthusiast | Full Stack Developer | B.Tech CSE (AI & ML)
-</h3>
+<img src="https://komarev.com/ghpvc/?username=DevkumarTarkar&style=for-the-badge&color=0e75b6"/>
 
-<p align="center">
+<img src="https://img.shields.io/github/followers/DevkumarTarkar?style=for-the-badge&logo=github"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Python+%7C+FastAPI+%7C+Next.js;Always+Learning+New+Technologies;Building+Real+World+Projects"/>
+<img src="https://img.shields.io/github/stars/DevkumarTarkar?style=for-the-badge&logo=github"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DevkumarTarkar&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/DevkumarTarkar?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/DevkumarTarkar?logo=github&style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-🎓 **B.Tech Computer Science Engineering (AI & ML)**
+🎓 **B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)**
 
-🏫 **GLA University, Mathura**
+🏫 **GLA University, Mathura, India 🇮🇳**
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+---
 
-💻 Full Stack Web Developer
+### 👨‍💻 I'm passionate about
 
-🚀 Building AI Powered Web Applications
+🤖 Artificial Intelligence
 
-🌱 Currently Learning
+🧠 Machine Learning
 
-* Generative AI
-* FastAPI
-* Next.js
-* PostgreSQL
-* Docker
-* Deep Learning
+🌐 Full Stack Development
 
-🎯 Goal
+☁ Cloud Computing
 
-Become an AI Engineer & Software Developer while building impactful products that solve real-world problems.
+📊 Data Science
+
+🚀 Software Engineering
+
+---
+
+### 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+
+- Retrieval-Augmented Generation (RAG)
+
+- AI Agents
+
+- FastAPI Advanced
+
+- Next.js 15
+
+- Docker
+
+- PostgreSQL
+
+- Azure AI
+
+---
+
+### 🎯 Mission
+
+Build AI-powered applications that solve real-world problems while continuously learning modern technologies and contributing to Open Source.
 
 ---
 
@@ -67,9 +80,9 @@ Become an AI Engineer & Software Developer while building impactful products tha
 
 <p align="center">
 
-<a href="https://dev-portfolio-alpha-lyart.vercel.app/">
+<a href="mailto:devkumartarkar3@gmail.com">
 
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
@@ -79,9 +92,9 @@ Become an AI Engineer & Software Developer while building impactful products tha
 
 </a>
 
-<a href="mailto:devkumartarkar3@gmail.com">
+<a href="https://github.com/DevkumarTarkar">
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -91,9 +104,9 @@ Become an AI Engineer & Software Developer while building impactful products tha
 
 </a>
 
-<a href="https://github.com/DevkumarTarkar">
+<a href="https://dev-portfolio-alpha-lyart.vercel.app/">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
@@ -101,463 +114,542 @@ Become an AI Engineer & Software Developer while building impactful products tha
 
 ---
 
-# 💡 Current Focus
+# ⚡ Quick Facts
 
-✅ Artificial Intelligence
+🎯 AI & Machine Learning Enthusiast
 
-✅ Machine Learning
+💻 Full Stack Developer
 
-✅ Full Stack Development
+🚀 FastAPI REST API Developer
 
-✅ FastAPI REST APIs
+🌐 Next.js Developer
 
-✅ Next.js Applications
+🐍 Python Programmer
 
-✅ PostgreSQL Database
+📊 Data Science Enthusiast
 
-✅ Open Source Contributions
+☁ Microsoft Azure Learner
 
----
-<!-- =============================== -->
-
-<!--             PART 2              -->
-
-<!--         TECH STACK              -->
-
-<!-- =============================== -->
-
-# 🚀 Tech Stack
-
-<h3 align="center">
-Languages • Frontend • Backend • AI/ML • Database • Tools
-</h3>
+🔥 Open Source Contributor
 
 ---
 
-## 💻 Programming Languages
+<div align="center">
 
-<p align="center">
+### 💡 *"First, solve the problem. Then, write the code."*
 
-<img src="https://skillicons.dev/icons?i=python"/>
+**– John Johnson**
 
-<img src="https://skillicons.dev/icons?i=java"/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+---
+<!-- ========================================================= -->
+<!--                    PART 2 OF 6                            -->
+<!--              TECH STACK & SKILLS                          -->
+<!-- ========================================================= -->
 
-<img src="https://skillicons.dev/icons?i=c"/>
+# 🚀 Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=javascript"/>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript"/>
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,bash" />
 </p>
 
+**Python • Java • C++ • C • JavaScript • TypeScript • HTML5 • CSS3 • Bash**
+
 ---
 
-## 🎨 Frontend Development
+### ⚛️ Frontend Development
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux,figma" />
 </p>
 
+**React • Next.js • Tailwind CSS • Bootstrap • Redux • Vite • Figma**
+
 ---
 
-## ⚙ Backend Development
+### ⚙️ Backend Development
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=flask"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
 </p>
 
+**FastAPI • Flask • Node.js • Express.js • REST APIs**
+
 ---
 
-## 🗄️ Database
+### 🗄️ Databases
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=supabase"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,mongodb" />
 </p>
 
+**PostgreSQL • MySQL • MongoDB • Firebase • Supabase**
+
 ---
 
-## 🤖 AI / Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=anaconda"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda" />
 </p>
 
-### AI Libraries
-
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* XGBoost
-* TorchVision
+**TensorFlow • PyTorch • OpenCV • NumPy • Pandas • Scikit-Learn • Matplotlib • XGBoost**
 
 ---
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=githubactions"/>
-
-<img src="https://skillicons.dev/icons?i=vercel"/>
-
-<img src="https://skillicons.dev/icons?i=azure"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,azure,aws,vercel,netlify" />
 </p>
 
+**Docker • GitHub Actions • Microsoft Azure • AWS • Vercel • Netlify**
+
 ---
 
-## 🛠 Development Tools
+### 🛠️ Development Tools
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=arduino"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,arduino" />
 </p>
 
----
+**Git • GitHub • VS Code • Postman • Linux • Arduino IDE**
 
-## ⚡ Areas of Interest
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🌐 Full Stack Development
-* 📊 Data Science
-* ☁️ Cloud Computing
-* 🔥 Open Source
-* 🛠 REST API Development
-* 🚀 Software Engineering
+</div>
 
 ---
-<!-- =============================== -->
 
-<!--             PART 3              -->
+# 💼 Professional Skills
 
-<!--     PROJECTS & CERTIFICATIONS   -->
-
-<!-- =============================== -->
-
-# 🌟 Featured Projects
+| Category | Skills |
+|-----------|--------|
+| 🤖 AI/ML | Machine Learning, Deep Learning, Computer Vision |
+| 🌐 Web Development | Full Stack Development, REST APIs |
+| 📊 Data | Data Analysis, Data Visualization |
+| 🗄 Database | SQL, PostgreSQL, MySQL |
+| ☁ Cloud | Azure, Vercel |
+| 🛠 Tools | Git, GitHub, Docker, VS Code |
 
 ---
+
+# 🎯 Areas of Expertise
+
+```text
+🤖 Artificial Intelligence
+🧠 Machine Learning
+🌐 Full Stack Web Development
+⚡ REST API Development
+📊 Data Science
+📈 Data Analytics
+☁ Cloud Computing
+🛠 Software Engineering
+🚀 Open Source
+```
+
+---
+
+# 📚 Currently Exploring
+
+- 🧠 Large Language Models (LLMs)
+- 🤖 AI Agents
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI Advanced Development
+- 🌐 Next.js 15
+- ☁ Azure AI Services
+- 🐳 Docker & CI/CD
+- 🗄 PostgreSQL Performance Optimization
+
+---
+
+<div align="center">
+
+### ⚡ "Technology is best when it brings people together."
+
+🌟 **Always Learning • Always Building • Always Improving**
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                    PART 3 OF 6                            -->
+<!--          FEATURED PROJECTS & CERTIFICATIONS               -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+<div align="center">
 
 ## 🌿 EcoStay AI
 
-### AI Powered Sustainable Tourism Platform
+### AI-Powered Sustainable Tourism Platform
 
-An AI-powered eco-tourism platform that connects travelers with luxury villas and eco-friendly homestays across India.
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 
-### 🚀 Features
+<img src="https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js"/>
 
-* AI Travel Recommendations
-* Luxury Villas & Homestays
-* FastAPI REST API
-* Next.js Frontend
-* PostgreSQL Database
-* Responsive UI
-* Secure Backend
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
 
-### 🛠 Tech Stack
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
 
-<p>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=react"/>
+### ✨ Highlights
 
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+- 🌱 Sustainable Tourism Platform
+- 🏡 Luxury Villas & Homestays
+- 🤖 AI-powered Recommendations
+- ⚡ FastAPI REST API
+- 🌐 Modern Next.js Frontend
+- 📱 Responsive UI
+- 🗄 PostgreSQL Database
+- 🔍 Smart Search & Filters
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
+### 🔗 Repository
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-</p>
-
-🔗 **GitHub Repository**
-
-https://github.com/DevkumarTarkar/Ecostay-AI
+👉 **https://github.com/DevkumarTarkar/Ecostay-AI**
 
 ---
 
-## 🔥 MaskTIF
+<div align="center">
+
+# 🔥 MaskTIF
 
 ### Development of Robust Recognition Systems for Masked Thermal Infrared Face Images
 
-Deep Learning based Thermal Face Recognition System capable of recognizing masked faces using thermal infrared images.
+<img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-red?style=for-the-badge"/>
 
-### Features
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge"/>
 
-* Thermal Face Detection
-* Face Recognition
-* Deep Learning
-* PyTorch
-* OpenCV
-* ONNX Model Export
+<img src="https://img.shields.io/badge/ONNX-Model-green?style=for-the-badge"/>
 
-### Tech Stack
+</div>
 
-<p>
+### ✨ Highlights
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-</p>
+- 🌡 Thermal Image Processing
+- 😷 Masked Face Recognition
+- 🤖 AI Face Recognition
+- 📸 OpenCV
+- 🧠 Deep Learning
+- ⚡ ONNX Model Export
 
 ---
 
-## 📊 Power BI Sales Dashboard
+<div align="center">
 
-Interactive dashboard built using Microsoft Power BI for business insights.
+# 📊 Power BI Dashboard
+
+Business Intelligence Dashboard
+
+<img src="https://img.shields.io/badge/Power%20BI-Business%20Analytics-yellow?style=for-the-badge&logo=powerbi"/>
+
+</div>
 
 ### Features
 
-* Sales Analysis
-* KPI Dashboard
-* Dynamic Charts
-* Business Intelligence
+- 📈 Sales Dashboard
+
+- 📊 KPI Analysis
+
+- 📉 Business Reports
+
+- 📋 Interactive Charts
 
 ---
 
 # 🏆 Certifications
 
-| Certification                              | Status |
-| ------------------------------------------ | ------ |
-| Microsoft Azure Fundamentals               | ✅      |
-| Microsoft Azure AI Fundamentals            | ✅      |
-| Microsoft Azure Data Fundamentals          | ✅      |
-| Oracle Cloud Infrastructure AI Foundations | ✅      |
-| Oracle Generative AI Professional          | ✅      |
-| Oracle Data Platform                       | ✅      |
-| NPTEL Software Engineering                 | ✅      |
-| Microsoft AI Skills Fest 2026              | ✅      |
+<div align="center">
+
+| Certification | Status |
+|:--------------|:------:|
+| 🟢 Microsoft Azure Fundamentals | ✅ |
+| 🟢 Microsoft Azure AI Fundamentals | ✅ |
+| 🟢 Microsoft Azure Data Fundamentals | ✅ |
+| 🔴 Oracle AI Foundations | ✅ |
+| 🔴 Oracle Generative AI Professional | ✅ |
+| 🔴 Oracle Data Platform | ✅ |
+| 🔵 NPTEL Software Engineering | ✅ |
+
+</div>
 
 ---
 
-# 🏅 Microsoft Digital Badge
+# 🏅 Microsoft AI Skills Fest 2026
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.credly.com/badges/feda2e33-abfa-4ce3-932a-2d5630453d62/public_url">
 
-<img src="https://img.shields.io/badge/Microsoft-AI%20Skills%20Fest%202026-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/View-Microsoft%20AI%20Skills%20Fest%202026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 </a>
 
-</p>
-
-<p align="center">
-
-<b>Microsoft AI Skills Fest 2026</b>
-
-</p>
-
-<p align="center">
-
-<a href="https://www.credly.com/badges/feda2e33-abfa-4ce3-932a-2d5630453d62/public_url">
-
-🔗 View Official Credential
-
-</a>
-
-</p>
+</div>
 
 ---
 
-# 📚 Currently Learning
+# 🎖 Achievements
 
-* Generative AI
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* AI Agents
-* Advanced FastAPI
-* Next.js 15
-* PostgreSQL Performance Optimization
-* Docker & CI/CD
-* Cloud Deployment
+🏆 Microsoft AI Skills Fest 2026
 
----
+🏆 Oracle AI Certified
 
-# 🎯 2026 Goals
+🏆 Azure AI Fundamentals Certified
 
-* 🚀 Secure a Software Development / AI Internship
-* 🌟 Contribute to Open Source Projects
-* 🤖 Build Production-Ready AI Applications
-* ☁️ Earn Advanced Cloud Certifications
-* 📈 Reach 500+ GitHub Contributions
-* 💼 Publish More Full Stack & AI Projects
+🏆 Azure Fundamentals Certified
+
+🏆 Azure Data Fundamentals Certified
+
+🏆 NPTEL Certified
+
+🏆 Built Multiple AI & Full Stack Projects
+
+🏆 Active GitHub Developer
 
 ---
 
-<!-- =============================== -->
+<div align="center">
 
-<!--             PART 4              -->
+## 🚀 Building AI Today for a Better Tomorrow
 
-<!--      GITHUB STATS & ACTIVITY    -->
+</div>
 
-<!-- =============================== -->
+---
+<!-- ========================================================= -->
+<!--                    PART 4 OF 6                            -->
+<!--              GITHUB ANALYTICS & STATS                     -->
+<!-- ========================================================= -->
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevkumarTarkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevkumarTarkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevkumarTarkar&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=DevkumarTarkar&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevkumarTarkar&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevkumarTarkar&theme=algolia&row=2&column=4&margin-w=15&margin-h=15"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevkumarTarkar&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 💻 Coding Activity
+# 📋 GitHub Profile Summary
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevkumarTarkar&theme=tokyonight"/>
 
-</p>
+</div>
 
----
+<br>
 
-# 📌 Profile Summary
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevkumarTarkar&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevkumarTarkar&theme=tokyonight"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevkumarTarkar&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevkumarTarkar&theme=tokyonight&utcOffset=5.5"/>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Current Development Focus
+
+<div align="center">
+
+| 🔥 Currently Working On | 🚀 Learning |
+|-------------------------|-------------|
+| 🌿 EcoStay AI | 🤖 Generative AI |
+| 🔥 MaskTIF | 🧠 LLMs |
+| 🌐 Full Stack Projects | ⚡ FastAPI Advanced |
+| ☁ Azure AI | 🐳 Docker |
+| 📊 AI Applications | ☁ Cloud Deployment |
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
 
 ```text
-💡 "Code. Learn. Build. Repeat."
+✅ Build Production Ready AI Applications
+
+✅ Contribute to Open Source
+
+✅ 1000+ GitHub Contributions
+
+✅ AI Engineer Internship
+
+✅ Microsoft Certifications
+
+✅ Oracle Professional Certifications
+
+✅ Full Stack Projects
+
+✅ Cloud Deployment
+
+✅ Competitive Programming
+
 ```
 
-> I enjoy turning ideas into real-world AI and Full Stack applications while continuously learning new technologies.
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+## "Every expert was once a beginner who refused to quit."
+
+### 🚀 Learn • Build • Share • Repeat
+
+</div>
 
 ---
-<!-- =============================== -->
 
-<!--             PART 5              -->
+# 📈 Contribution Calendar
 
-<!--       FOOTER & CONTACT          -->
+<div align="center">
 
-<!-- =============================== -->
+<img src="https://ghchart.rshah.org/DevkumarTarkar" alt="GitHub Contribution Calendar"/>
+
+</div>
+
+---
+
+# 💻 Weekly Coding Activity
+
+<div align="center">
+
+```text
+Python          ████████████████░░░░░  65%
+
+JavaScript      ████████░░░░░░░░░░░░░  25%
+
+Java            ███░░░░░░░░░░░░░░░░░░  10%
+```
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                    PART 5 OF 6                            -->
+<!--         OPEN SOURCE • CONTACT • SUPPORT                   -->
+<!-- ========================================================= -->
+
+# 🤝 Let's Collaborate
+
+<div align="center">
+
+### 🚀 I'm always open to collaborate on exciting projects!
+
+</div>
+
+<table align="center">
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- LLM Applications
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full Stack Development
+
+- FastAPI
+- Next.js
+- React
+- PostgreSQL
+- REST APIs
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📫 Reach Me
+
+<div align="center">
+
+| 📧 Email | **devkumartarkar3@gmail.com** |
+|----------|-------------------------------|
+| 💼 LinkedIn | https://www.linkedin.com/in/dev-kumar-tarkar-55189731a/ |
+| 🌐 Portfolio | https://dev-portfolio-alpha-lyart.vercel.app/ |
+| 💻 GitHub | https://github.com/DevkumarTarkar |
+| 🧩 LeetCode | https://leetcode.com/u/Dev_2025/ |
+
+</div>
+
+---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/dev-kumar-tarkar-55189731a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:devkumartarkar3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/DevkumarTarkar">
@@ -572,58 +664,215 @@ Interactive dashboard built using Microsoft Power BI for business insights.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 📫 Reach Me
+# ❤️ Support My Work
 
-📧 **Email:** [devkumartarkar3@gmail.com](mailto:devkumartarkar3@gmail.com)
+If you like my projects, consider
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/dev-kumar-tarkar-55189731a/
+⭐ Starring my repositories
 
-🌐 **Portfolio:**
-https://dev-portfolio-alpha-lyart.vercel.app/
+🍴 Forking projects
 
-💻 **GitHub:**
-https://github.com/DevkumarTarkar
+🤝 Following my GitHub profile
 
-🧩 **LeetCode:**
-https://leetcode.com/u/Dev_2025/
+💼 Connecting with me on LinkedIn
 
 ---
 
-# ❤️ Support
+# 🎯 Current Goals
 
-If you like my work, consider ⭐ starring my repositories and connecting with me on LinkedIn.
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DevkumarTarkar&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
+- 🚀 AI Engineer Internship
+- 🌍 Open Source Contributions
+- 📈 1000+ GitHub Contributions
+- ☁ Microsoft Azure Certifications
+- 🤖 Production Ready AI Applications
+- 🌐 Advanced Full Stack Projects
 
 ---
 
-<h3 align="center">
+# ⚡ Fun Fact
 
-⭐ Thanks for visiting my profile! ⭐
+<div align="center">
 
-</h3>
+## 💡
 
-<h4 align="center">
+### "I don't just write code,
 
-💙 Keep Learning • Keep Building • Keep Growing 🚀
+### I build solutions."
 
-</h4>
+</div>
 
 ---
 
-<p align="center">
+# 👀 Profile Visitors
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+<div align="center">
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=DevkumarTarkar&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile ⭐
+
+</div>
+
+---
+<!-- ========================================================= -->
+<!--                    PART 6 OF 6                            -->
+<!--              PREMIUM FOOTER & CLOSING                     -->
+<!-- ========================================================= -->
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **⚠️ Enable this after creating the GitHub Action.**
+
+<img src="https://raw.githubusercontent.com/DevkumarTarkar/DevkumarTarkar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+---
+
+# 🌟 Quote I Live By
+
+<div align="center">
+
+## 🚀 "Success doesn't come from what you do occasionally,
+
+## it comes from what you do consistently."
+
+</div>
+
+---
+
+# 📌 Developer Mindset
+
+```text
+💡 Learn Every Day
+
+⚡ Build Real Projects
+
+🚀 Solve Real Problems
+
+🤝 Share Knowledge
+
+📈 Keep Improving
+
+🌍 Contribute to Open Source
+
+❤️ Never Stop Learning
+```
+
+---
+
+# 🎯 Career Vision
+
+<div align="center">
+
+### AI Engineer 🤖
+
+⬇
+
+### Full Stack Developer 🌐
+
+⬇
+
+### Cloud & AI Architect ☁
+
+⬇
+
+### Tech Entrepreneur 🚀
+
+</div>
+
+---
+
+# 🌎 Open Source Journey
+
+<div align="center">
+
+⭐ Every project is an opportunity to learn.
+
+⭐ Every contribution makes the community stronger.
+
+⭐ Every line of code is a step towards innovation.
+
+</div>
+
+---
+
+# 💼 Looking For
+
+<div align="center">
+
+🟢 AI/ML Internship
+
+🟢 Software Development Internship
+
+🟢 Full Stack Development Internship
+
+🟢 Open Source Collaborations
+
+🟢 Freelance Opportunities
+
+</div>
+
+---
+
+# 📈 2026 Goals
+
+- 🎯 Build 10+ Production Ready Projects
+- 🤖 Publish AI-based Applications
+- 🌍 Contribute to Open Source
+- ☁ Become Microsoft Certified
+- 🚀 Reach 1000+ GitHub Contributions
+- 💼 Secure an AI/ML Internship
+- 🌐 Build Scalable SaaS Products
+
+---
+
+# ❤️ Thanks For Visiting
+
+<div align="center">
+
+## ⭐ If you like my work,
+
+### don't forget to
+
+⭐ Star my repositories
+
+🤝 Follow my GitHub
+
+💼 Connect on LinkedIn
+
+🚀 Let's Build Something Amazing Together!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thank%20You!&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling&fontColor=ffffff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Made with Passion by
+
+# Dev Kumar Tarkar
+
+### AI • ML • Full Stack • Open Source
+
+</div>
